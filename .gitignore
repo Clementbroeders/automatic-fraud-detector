@@ -1,0 +1,7 @@
+/src/fraudtest.csv
+
+/airflow/logs/*
+
+*.pyc
+
+Automatic Fraud Detection 🦊.html
